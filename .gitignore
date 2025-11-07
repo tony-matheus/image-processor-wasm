@@ -1,0 +1,7 @@
+.tmp
+node_modules
+*.scss.d.ts
+*.css.d.ts
+build
+*.o
+.DS_Store
